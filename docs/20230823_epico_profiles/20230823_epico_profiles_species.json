@@ -1,0 +1,90 @@
+{
+  "context": "Ascomycetes",
+  "governing_code": "ICN",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "epicoccum nigrum"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Epicoccum nigrum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "epicoccum nigrum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Epicoccum nigrum",
+            "ott_id": 846222,
+            "rank": "species",
+            "source": "ott3.5draft1",
+            "synonyms": [
+              "Epicoccum aleurophilum",
+              "Epicoccum diversisporum f. pseudoplatani",
+              "Epicoccum diversisporum pseudoplatani",
+              "Epicoccum diversisporum var. pseudoplatani",
+              "Epicoccum nigrum agyroides",
+              "Epicoccum nigrum nigrum",
+              "Epicoccum nigrum var. agyroides",
+              "Epicoccum nigrum var. nigrum",
+              "Epicoccum pallescens",
+              "Epicoccum purpurascens",
+              "Epicoccum purpurascens aleurophilum",
+              "Epicoccum purpurascens f. tabaci",
+              "Epicoccum purpurascens purpurascens",
+              "Epicoccum purpurascens tabaci",
+              "Epicoccum purpurascens var. aleurophilum",
+              "Epicoccum purpurascens var. purpurascens",
+              "Epicoccum purpurascens var. tabaci",
+              "Epicoccum sp. SGSGf34",
+              "Epicoccum tabaci",
+              "Epicoccum versicolor nigrum",
+              "Epicoccum versicolor pallescens",
+              "Epicoccum versicolor purpurascens",
+              "Epicoccum versicolor var. nigrum",
+              "Epicoccum versicolor var. purpurascens",
+              "Epicoccum versicolor virescens",
+              "Epicoccum virescens",
+              "Epicoccum vulgare",
+              "Epicoccum vulgare pallescens",
+              "Epicoccum vulgare var. pallescens",
+              "Epicoccum vulgare var. virescens",
+              "Epicoccum vulgare var. vulgare",
+              "Epicoccum vulgare virescens",
+              "Epicoccum vulgare vulgare",
+              "Phoma epicoccina",
+              "Toruloidea tobaica"
+            ],
+            "tax_sources": [
+              "if:226758",
+              "ncbi:105696",
+              "gbif:2617206",
+              "gbif:7956764",
+              "irmng:11063020"
+            ],
+            "unique_name": "Epicoccum nigrum"
+          }
+        }
+      ],
+      "name": "epicoccum nigrum"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.5draft1",
+    "version": "3.5",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.5"
+  },
+  "unambiguous_names": [
+    "epicoccum nigrum"
+  ],
+  "unmatched_names": []
+}
