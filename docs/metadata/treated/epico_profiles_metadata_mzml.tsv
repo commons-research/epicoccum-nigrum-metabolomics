@@ -1,0 +1,5 @@
+filename	species	sample_type	condition
+170510_PMA_LP_EP_EPO120BLANK1.mzML	nd	blank	nd
+170510_PMA_LP_EP_EPO120EBSU.mzML	Epicoccum nigrum	sample	solid
+170510_PMA_LP_EP_EPO120EPL.mzML	Epicoccum nigrum	sample	liquid
+170803_LP_EP_EPO120AGAR_pos.mzML	nd	blank	nd
